@@ -1,6 +1,6 @@
 {
     "name" : "tiendag8-api",
-    "version": 1,
+    "version": 2,
     "builds": [
         {
             "src":"index.js",
